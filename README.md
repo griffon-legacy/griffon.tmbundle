@@ -14,4 +14,4 @@ Follow these instructions to keep your copy up to date
     git clone https://github.com/aalmiray/griffon.tmbundle.git
 
 Alternatively if you do not have git installed you can download a copy of the repository in
-tar.gz format and uncompress it inside /Library/Application\ Support/TextMate/Bundles
+tar.gz or zip format and uncompress it inside /Library/Application\ Support/TextMate/Bundles
